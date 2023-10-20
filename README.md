@@ -1,7 +1,14 @@
 # Ruleta
 
-Descripción:
+
 <img  width="30%" src="imagen.jpeg">
+
+Descripción:
+
+
+
+
+
 
 Ruleta es un juego de azar simple en el que los jugadores deben adivinar un número entre 1 y 10. Si el jugador adivina el número correcto, gana. Si no, pierde y se eliminan tres carpetas al azar de su sistema.
 
